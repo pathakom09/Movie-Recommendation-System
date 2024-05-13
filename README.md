@@ -1,1 +1,2 @@
-# Movie-Recommendation-System
+# Movie-Recommendation
+Recommends movie on user's choice
